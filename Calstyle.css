@@ -1,0 +1,22 @@
+h1.center {
+    color: #ef0e0e !important;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    
+}
+
+.container {
+    padding: 15px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid rgb(243, 236, 236);
+    border-radius: 12px;
+    width: fit-content;
+    align-items: center;
+    box-shadow: #debdbd;
+    background-color: rgb(28, 12, 18);
+    opacity: 95%;
+    
+}
